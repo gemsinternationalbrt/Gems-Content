@@ -1,0 +1,33 @@
+{
+  "notices": [
+    {
+      "title": "Admissions Open for 2083 BS",
+      "date": "Admission Open for 2083 BS",
+      "body": "Admissions are now open for all grades from Nursery to Class 9. Visit the school administration office between 10:00 AM and 3:00 PM to collect the admission forms.",
+      "image": "",
+      "pdf_link": "",
+      "created_at": "2026-01-09T10:00:00.000Z"
+    },
+    {
+      "title": "Parent Teacher Meeting",
+      "date": "PTM on Magh 27, 2082",
+      "body": "Dear Parents, please attend the PTM to discuss your child's progress in the second terminal examination.",
+      "pdf_link": "",
+      "created_at": "2026-01-08T10:00:00.000Z"
+    },
+    {
+      "title": "Winter Camp 2082",
+      "date": "Winter Camp from Poush 15-20",
+      "body": "Join us for an exciting winter camp with activities like hiking, bonfire, and team games.",
+      "image": "/assets/uploads/scoutwintercamp.jpg",
+      "created_at": "2026-01-07T10:00:00.000Z"
+    },
+    {
+      "title": "School Holiday - National Day",
+      "date": "Holiday on National Day",
+      "body": "School will remain closed on National Day. Classes will resume as normal from the next day.",
+      "image": "",
+      "created_at": "2026-01-06T10:00:00.000Z"
+    }
+  ]
+}
