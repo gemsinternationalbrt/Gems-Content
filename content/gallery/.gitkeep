@@ -1,0 +1,4 @@
+# Gallery images
+# Each image uploaded via CMS creates a markdown file here
+# Format: YYYY-MM-DD-image-title.md
+# Fields: image, title, category, description, date, featured, created_at
