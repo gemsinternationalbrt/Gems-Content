@@ -1,6 +1,6 @@
 ---
+image: /assets/uploads/sportsmeet.jpg
 title: Annual Sports Day 2026
-image: assets/uploads/sports-day-2026.jpg
 category: Sports
 description: Students participating in the annual sports day event with various
   competitions and activities.
