@@ -1,21 +1,3 @@
 {
-  "events": [
-    {
-      "title": "New Academic Session Begins",
-      "type": "Event",
-      "start_date": "2026-04-15",
-      "note": "Classes resume for all grades."
-    },
-    {
-      "title": "Saraswati Puja",
-      "type": "Holiday",
-      "start_date": "2026-02-14"
-    },
-    {
-      "title": "New Gems Website",
-      "type": "Event",
-      "start_date": "2026-01-09",
-      "note": "Gems School has a new website "
-    }
-  ]
+  "events": []
 }
