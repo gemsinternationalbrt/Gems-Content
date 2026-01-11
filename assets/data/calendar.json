@@ -6,6 +6,44 @@
       "start_date": "2026-02-15",
       "note": "Our much-awaited annual sports competition.",
       "created_at": "2026-01-09T08:00:00.000Z"
+    },
+    {
+      "title": "Class 10 Begins",
+      "type": "Event",
+      "start_date": "2026-01-10",
+      "note": "Class 10 students report to school.",
+      "created_at": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "title": "Winter Holidays",
+      "type": "Holiday",
+      "start_date": "2026-01-10",
+      "end_date": "2026-01-20",
+      "note": "Winter vacation for all students.",
+      "created_at": "2026-01-10T11:00:00.000Z"
+    },
+    {
+      "title": "Dashain Vacation",
+      "type": "Holiday",
+      "start_date": "2026-10-06",
+      "end_date": "2026-10-17",
+      "note": "School closed for Dashain festival.",
+      "created_at": "2026-01-10T12:00:00.000Z"
+    },
+    {
+      "title": "Mid-Term Exams",
+      "type": "Exam",
+      "start_date": "2026-02-01",
+      "end_date": "2026-02-05",
+      "note": "Mid-term examinations for Classes 1-10.",
+      "created_at": "2026-01-20T10:00:00.000Z"
+    },
+    {
+      "title": "Parent-Teacher Meeting",
+      "type": "Event",
+      "start_date": "2026-01-25",
+      "note": "Collect progress reports and meet teachers.",
+      "created_at": "2026-01-15T10:00:00.000Z"
     }
   ]
 }

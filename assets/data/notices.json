@@ -1,3 +1,44 @@
 {
-  "notices": []
+  "notices": [
+    {
+      "title": "Admissions Open for 2083 BS",
+      "date": "Apply Now",
+      "body": "We are excited to announce that admissions are now open for the upcoming academic session 2083 BS. Join GEMS for a journey of excellence.",
+      "image": "assets/uploads/img_20251010_163329.jpg",
+      "pinned": true,
+      "created_at": "2026-01-08T10:00:00.000Z"
+    },
+    {
+      "title": "Dashain Holiday Notice",
+      "date": "October 6-17, 2026",
+      "body": "Dear Parents and Students, GEMS International School will remain closed for Dashain vacation from October 6, 2026 to October 17, 2026. Classes will resume on October 18, 2026.",
+      "image": "",
+      "pinned": true,
+      "created_at": "2026-01-10T10:00:00.000Z"
+    },
+    {
+      "title": "Parent-Teacher Meeting",
+      "date": "January 25, 2026",
+      "body": "A parent-teacher meeting has been scheduled for January 25, 2026 (Saturday) from 10:00 AM to 2:00 PM. Parents are requested to collect their child's progress report.",
+      "image": "",
+      "pinned": false,
+      "created_at": "2026-01-15T10:00:00.000Z"
+    },
+    {
+      "title": "Mid-Term Examination Schedule",
+      "date": "February 1-5, 2026",
+      "body": "The mid-term examinations for Classes 1-10 will be held from February 1 to February 5, 2026.",
+      "image": "",
+      "pinned": false,
+      "created_at": "2026-01-20T10:00:00.000Z"
+    },
+    {
+      "title": "School Timings Update",
+      "date": "Effective January 15, 2026",
+      "body": "Please note that effective from January 15, 2026, the school timing will be from 8:00 AM to 4:00 PM.",
+      "image": "",
+      "pinned": false,
+      "created_at": "2026-01-12T10:00:00.000Z"
+    }
+  ]
 }
